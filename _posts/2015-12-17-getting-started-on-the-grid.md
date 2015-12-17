@@ -2,8 +2,8 @@
 title: Getting Started on The Grid
 description: Click the pencil icon in the bottom left to read more...
 author: []
-datePublished: '2015-12-17T08:48:41.887Z'
-dateModified: '2015-12-14T08:48:45.316Z'
+datePublished: '2015-12-17T08:48:59.353Z'
+dateModified: '2015-12-17T08:48:41.887Z'
 sourcePath: _posts/2015-12-17-getting-started-on-the-grid.md
 published: true
 inFeed: true
