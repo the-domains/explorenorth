@@ -2,6 +2,7 @@ name: explorenorth
 favicon: null
 layout_spectrum: 0.22255494724959135
 typography_spectrum: 0.7935487048234791
+title: Explore North
 cta:
   domain: null
   bucket: null
