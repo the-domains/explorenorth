@@ -1,0 +1,28 @@
+name: explorenorth
+favicon: null
+layout_spectrum: 0.22255494724959135
+typography_spectrum: 0.7935487048234791
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.5753322248347104
+  lightness: 0.9957925654016435
+  saturation: 0.20502301235683262
+  rhythmicContrast: 0.5549349139910191
+purpose: []
