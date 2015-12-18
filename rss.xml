@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[explorenorth]]></title>
-        <description><![CDATA[explorenorth]]></description>
+        <title><![CDATA[Explore North]]></title>
+        <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 08:49:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Dec 2015 12:15:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Golden Globe Race 2018]]></title>
+            <description><![CDATA[<article><h1>The Golden Globe Race 2018</h1><p>The Golden Globe Race 2018 is on and AAC will be there. This post is one of the most exciting we have ever published, with news that will make a real difference to you, the readers of AAC...don't even think about missing this. Post does not require membership .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db19e962036f57c59f0fb66ccc838092ec73b8f6.jpg"></article>]]></description>
+            <link>https://www.morganscloud.com/2015/12/16/the-golden-globe-race-2018/</link>
+            <guid isPermaLink="false">78c7ffcd-925d-46b0-9e17-239d02f95fdf</guid>
+            <pubDate>Fri, 18 Dec 2015 12:15:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
