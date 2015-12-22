@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Four men and a boat. The first hard earned lesson in the high arctic.
-datePublished: '2015-12-20T09:28:00.493Z'
-dateModified: '2015-12-19T08:32:04.671Z'
+datePublished: '2015-12-22T22:19:56.990Z'
+dateModified: '2015-12-22T22:18:54.599Z'
 title: Stranded on Svalbard
 author: []
+sourcePath: _posts/2015-12-20-stranded-on-svalbard.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-stranded-on-svalbard.md
-published: true
 url: stranded-on-svalbard/index.html
 _type: Article
 
@@ -25,6 +25,7 @@ _type: Article
 ****
 
 **Stranded on Svalbard**
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fab119dc-26fb-4ff3-bdce-9eb5dc1c809c.JPG)
 
 It all got a little tense when the polar bear came
 strolling towards us while the boat was safely up on the beach. 
@@ -56,9 +57,7 @@ Here lie the remains of an old whaling station spread out
 over the beautiful beach. Two hours with some exploring and walking we were
 sailing north again.
 
--
-
-10 degrees to port. Hold it. Hold it. 20 degress
+-10 degrees to port. Hold it. Hold it. 20 degress
 starboard.
 
 Another day later, Bengt was standing ice watch the bow as
@@ -80,6 +79,7 @@ midnight sun was mandatory. The midnight sun on Svalbard is shining from
 
 April
 20 to August 23\.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e68e9eb3-cb8b-4723-969a-769a2e407f3e.JPG)
 
 On the
 beach there are three old whaleboats with the bottom up that is in surprisingly
@@ -98,9 +98,7 @@ nightcap and went to bed.
 
 We didn't get many hours of sleep. 
 
--
-
-We
+- We
 are on the beach. Get out. Get out.
 
 Espen woke
@@ -120,9 +118,7 @@ downed the rum accompanied to the sound of waves smashing in to the hull.
 We slept well, except for Bengt, he remained awake on
 polar bear watch. 
 
--
-
-We needed the dinghy to get the anchor and all the lines out. It would
+- We needed the dinghy to get the anchor and all the lines out. It would
 have been a disaster if the bear had destroyed our dinghy.
 
 At 12, there was a meter down to the water. We checked the
@@ -138,9 +134,7 @@ towards us at an alarming pace. There wasn't much going our way today.
 One of the reasons
 we had for sailing to Svalbard was to get a sense of remoteness and the
 adventure of being totally self-sufficient. The feeling of remoteness and not
-being able to cope on our own was over whelming. Until a 
-
-French
+being able to cope on our own was over whelming. Until a French
 twomasted sailing yacht came sailing in to the bay. 
 
 - Sailboat on your way in to Fleur de Lys, this is Explore
@@ -209,9 +203,7 @@ Slowly Explore North starts to turn on all the small round
 rocks, gets in to the water and, then increases speed and we are floating. The
 stretched in the towrope alone slingshots us in to deeper water. 
 
--
-
-We are off. Thank you. Thank you, I shout over the VHF, but I can
+- We are off. Thank you. Thank you, I shout over the VHF, but I can
 probably hear me without it.
 
 The feeling of relief is overwhelming. 
@@ -220,31 +212,26 @@ Smiles all the way around.
 
 We have managed to get us out of a difficult situation
 that we really shouldn't have been in. But I guess that is called learning.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7de87315-04c8-48c3-9426-ea9489116695.JPG)
 
 None of the
 knots we have used to get the long tow will come open. 
 
-All must be cut. The 
-
-knots are set in stone by the violent forces.
+All must be cut. The knots are set in stone by the violent forces. 
 
 The skipper of Albarquel got one
 of our ropes as thanks for his help as a compensation for the rope that broke. 
 
-It is not much. 
-
-But
+It is not much. But
 he very reluctantly takes it. He is a sailor of the old school that does what
 it takes to help other sailors in trouble. Next time it could be him, and then
-you need to find friendly souls. 
-
-Especially when you are Svalbard.
+you need to find friendly souls. Especially when you are Svalbard. 
 
 The boat survived without a
 scratch and we were soon on our way to the next port. Three weeks of adventure
-lies ahead. 
+lies ahead. But we are hoping for a little less drama. 
 
-But we are hoping for a little less drama.
+****
 
 ****
 
@@ -267,24 +254,10 @@ mainland. Worst-case scenario is that the boat had to be left on the beach for
 weeks.
 
 Consider worst-case scenario for all situations, and
-prepare accordingly
-
-Captions:
-
-The bear was 50 yards away
-when we shot with a signal pen and a rifle to scare it away.
-
-We were safe on the beach.
-
-While we wait for the tide
-there was not much else to do but hope.
-
-Perfect night before it was a small nightmare morning.
-
-We were good at swaying. Until the wind turned.
+prepare accordingly.
 
 **About the author**
 
-Jon Amtrup is a writer, Edior of www.thesailnews.com, author
-of The Harbour Guide Bergen-Kirkenes, Sail to Svalbard and runs the adventure
+Jon Amtrup is a sailor and author
+of The Harbour Guide Bergen-Kirkenes, Sail to Svalbard, High Latitude Sailing - How to sail the cold waters of the world and runs the adventure
 company Explore North in Norway, and can be reached on jon@explorenorth.no.
