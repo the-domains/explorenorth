@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Dec 2015 22:29:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Dec 2015 07:09:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ski & Sail 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/explorenorth/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 21 Dec 2015 14:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2581fb6358b7dcf762e17d6f674f39d4e3c24b8f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/explorenorth/about/index.html</link>
+            <guid isPermaLink="false">cf59c122-aa56-421d-8a60-03b3a3e29bfb</guid>
+            <pubDate>Wed, 23 Dec 2015 07:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Consultancy]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.libsyn.com/den-unge-mannen-og-norskekysten</link>
             <guid isPermaLink="false">f970531f-dbc9-42e4-8427-6899a118c8b6</guid>
             <pubDate>Fri, 18 Dec 2015 12:22:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Golden Globe Race 2018]]></title>
-            <description><![CDATA[<article><h1>The Golden Globe Race 2018</h1><p>The Golden Globe Race 2018 is on and AAC will be there. This post is one of the most exciting we have ever published, with news that will make a real difference to you, the readers of AAC...don't even think about missing this. Post does not require membership .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ae2236371f7fb994909a60c3445b812df829950.jpg"></article>]]></description>
-            <link>https://www.morganscloud.com/2015/12/16/the-golden-globe-race-2018/</link>
-            <guid isPermaLink="false">78c7ffcd-925d-46b0-9e17-239d02f95fdf</guid>
-            <pubDate>Fri, 18 Dec 2015 12:15:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
