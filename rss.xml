@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 07:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 08:05:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ski & Sail 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/explorenorth/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 21 Dec 2015 14:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Book Review: Sail To Svalbard By Jon Amtrup * Mikael Strandberg]]></title>
+            <description><![CDATA[<article><h1>Book Review: Sail To Svalbard By Jon Amtrup * Mikael Strandberg</h1><p>Sail To Svalbard By Jon Armtrup (Skagerak Förlag) Thanks For Giving Me A Glimpse Of Another World Explorer Mikael Strandberg I am getting more interested in sailing by the day. For many reasons. Swedish Polar History involves a fair amount of sailing. Like A.E Nordenskiölds North-East Passage with Vega.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08aca456f02dc68e8f55e5710d8e3aabc725dca5.jpg"></article>]]></description>
+            <link>http://www.mikaelstrandberg.com/2015/12/26/book-review-sail-to-svalbard-by-jon-amtrup/</link>
+            <guid isPermaLink="false">7d142e2c-7084-4aaf-a8a2-098f9b94f135</guid>
+            <pubDate>Sun, 27 Dec 2015 08:04:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[About]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/explorenorth/arthur-beale-chandlery/index.html</link>
             <guid isPermaLink="false">8751e329-12e2-498b-a3eb-d1b24a350ef3</guid>
             <pubDate>Fri, 18 Dec 2015 12:23:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explore North's podcast: Den unge mannen og norskekysten]]></title>
-            <description><![CDATA[<article><h1>Explore North's podcast: Den unge mannen og norskekysten</h1><p>Explore North har sin egen podcast. Den er akkurat født og forsøker å finne sin form og plass her i verden. Dette er den andre - så langt. More to follow.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d4aacaa164d9f1626a917cf421b233b25c683d8c.jpg"></article>]]></description>
-            <link>http://explorenorth.libsyn.com/den-unge-mannen-og-norskekysten</link>
-            <guid isPermaLink="false">f970531f-dbc9-42e4-8427-6899a118c8b6</guid>
-            <pubDate>Fri, 18 Dec 2015 12:22:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
