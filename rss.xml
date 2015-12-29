@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 08:05:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 07:10:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Ski & Sail 2016]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Mon, 21 Dec 2015 14:16:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Arctic Report Card 2015]]></title>
+            <description><![CDATA[<article><h1>Arctic Report Card 2015</h1><p>Arctic Report Card: Update for 2015 - Tracking recent environmental changes, with 12 essays prepared by an international team of 72 scientists from 11 different countries and an independent peer-review organized by the Arctic Monitoring and Assessment Programme of the Arctic Council. See http://www.arctic.noaa.gov/reportcard</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7ad23b8eac552f5829fd057a7d6028ff1a2859e.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=e0oLzNpEQ-w&amp;feature=youtu.be</link>
+            <guid isPermaLink="false">d2dd03d4-12b1-47cd-aca6-0033d6896924</guid>
+            <pubDate>Tue, 29 Dec 2015 07:10:01 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Book Review: Sail To Svalbard By Jon Amtrup * Mikael Strandberg]]></title>
-            <description><![CDATA[<article><h1>Book Review: Sail To Svalbard By Jon Amtrup * Mikael Strandberg</h1><p>Sail To Svalbard By Jon Armtrup (Skagerak Förlag) Thanks For Giving Me A Glimpse Of Another World Explorer Mikael Strandberg I am getting more interested in sailing by the day. For many reasons. Swedish Polar History involves a fair amount of sailing. Like A.E Nordenskiölds North-East Passage with Vega.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/08aca456f02dc68e8f55e5710d8e3aabc725dca5.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Book Review: Sail To Svalbard By Jon Amtrup * Mikael Strandberg</h1><p>Sail To Svalbard By Jon Armtrup (Skagerak Förlag) Thanks For Giving Me A Glimpse Of Another World Explorer Mikael Strandberg I am getting more interested in sailing by the day. For many reasons. Swedish Polar History involves a fair amount of sailing. Like A.E Nordenskiölds North-East Passage with Vega.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bb108ebfa6de39908952fc749827b4923099d7db.jpg"></article>]]></description>
             <link>http://www.mikaelstrandberg.com/2015/12/26/book-review-sail-to-svalbard-by-jon-amtrup/</link>
             <guid isPermaLink="false">7d142e2c-7084-4aaf-a8a2-098f9b94f135</guid>
             <pubDate>Sun, 27 Dec 2015 08:04:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.tweedsworld.com/</link>
             <guid isPermaLink="false">f1b086c8-6e13-4050-b9ee-afce1e95aabe</guid>
             <pubDate>Fri, 18 Dec 2015 14:00:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arthur Beale Chandlery]]></title>
-            <description><![CDATA[<article><h1>Arthur Beale Chandlery</h1><p>If you blink you will walk straight past it. But sailors don't blink, do they? In 194 Shaftsbury Aveny, London there is a cosy and well stocked marine chandlery. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72090a44e5fc9ea5b5c4869a3e6f8cc7b119fb98.jpg"></article>]]></description>
-            <link>https://thegrid.ai/explorenorth/arthur-beale-chandlery/index.html</link>
-            <guid isPermaLink="false">8751e329-12e2-498b-a3eb-d1b24a350ef3</guid>
-            <pubDate>Fri, 18 Dec 2015 12:23:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
