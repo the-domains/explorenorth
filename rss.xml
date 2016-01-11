@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 09:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 13:18:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/explorenorth/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 21 Dec 2015 14:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Leave the world behind - Ski & Sail in the Sunnmore Alps, Norway]]></title>
+            <description><![CDATA[<article><h1>Leave the world behind - Ski & Sail in the Sunnmore Alps, Norway</h1><p>A short movie about a week of exploration in the Sunnmore Alps (Alesund, Norway) moving just with a sailing boat and our skis. Follow me on: www.facebok.com/federicoravassardphotography</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01dfe014fc1716c255fcf6de2936f6159dd092e5.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=M7aaufMXaxE</link>
+            <guid isPermaLink="false">1d936f0a-b421-46a6-9eac-8e4f15078582</guid>
+            <pubDate>Mon, 11 Jan 2016 13:18:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/explorenorth/consultancy/index.html</link>
             <guid isPermaLink="false">57b2819d-b79f-4fba-b545-21bb7757c011</guid>
             <pubDate>Tue, 22 Dec 2015 22:28:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explore North's podcast: Are Wiig - Solo jorden rundt]]></title>
-            <description><![CDATA[<article><h1>Explore North's podcast: Are Wiig - Solo jorden rundt</h1><p>I 2018 er det 50 &aring;r siden Sir Robin Knox-Johnston ble den f&oslash;rste til &aring; seile jorden rundt alene. Det skal feires med en jubileumsregatta og Are Wiig skal bli den f&oslash;rste nordmannen som gj&oslash;r akkurat det samme. H&oslash;r p&aring; f&oslash;rste del av en serie med intervjuer med seileren og eventyreren Are Wiig.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/170f26239aff02d5ba0f3ac9893f07853ae9f45c.jpg"></article>]]></description>
-            <link>http://explorenorth.libsyn.com/are-wiig-solo-jorden-rundt</link>
-            <guid isPermaLink="false">dac0f74f-0e98-412b-a30f-f0bdf71e1d70</guid>
-            <pubDate>Mon, 21 Dec 2015 14:12:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
