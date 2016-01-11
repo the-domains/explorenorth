@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>https://thegrid.ai/explorenorth/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 22:15:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jan 2016 09:17:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/explorenorth/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -21,8 +21,15 @@
             <pubDate>Mon, 21 Dec 2015 14:16:35 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f02d132-ae79-4716-97cb-982ba7432ab0.jpg">]]></description>
+            <link>https://thegrid.ai/explorenorth/17a5ef6a-8181-42a5-b211-3da21d86706c/index.html</link>
+            <guid isPermaLink="false">17a5ef6a-8181-42a5-b211-3da21d86706c</guid>
+            <pubDate>Mon, 11 Jan 2016 09:17:13 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ellen MacArthur at Learning Without Frontiers Conference - Tim Dobson]]></title>
-            <description><![CDATA[<article><h1>Ellen MacArthur at Learning Without Frontiers Conference - Tim Dobson</h1><p>When I was a teenager, Ellen MacArthur was a great inspiration to me. Her autobiography " Taking on the World " where she describes the trial and tribulations of her childhood as she struggles to fulfil her dreams of sailing were particularly inspiring.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba765b05e69624ea72426947eabd8283b9bb4c11.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Ellen MacArthur at Learning Without Frontiers Conference - Tim Dobson</h1><p>Ellen MacArthur is a huge inspiration, and I even had the chance to meet her when we invited her to hold a lecture in Norway. I have also written the last chapter in the Norwegian edition of her biography Taking on the world. She definitely took on the world with her circumnavigations, and now, with the same force and dreams, she is fighting for a better and greener world. Inspiration in the pures form. Go, Ellen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba765b05e69624ea72426947eabd8283b9bb4c11.jpg"></article>]]></description>
             <link>http://blog.tdobson.net/2012/02/ellen-macarthur-at-learning-without-frontiers/</link>
             <guid isPermaLink="false">dd69ac30-1f53-48a7-913b-32dcc0dbe73a</guid>
             <pubDate>Sat, 02 Jan 2016 22:14:37 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.libsyn.com/are-wiig-solo-jorden-rundt</link>
             <guid isPermaLink="false">dac0f74f-0e98-412b-a30f-f0bdf71e1d70</guid>
             <pubDate>Mon, 21 Dec 2015 14:12:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Stranded on Svalbard]]></title>
-            <description><![CDATA[<article><h1>Stranded on Svalbard</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/da6ee8deb923650991fdc5f11ab4a167630c1191.jpg"></article>]]></description>
-            <link>https://thegrid.ai/explorenorth/stranded-on-svalbard/index.html</link>
-            <guid isPermaLink="false">038a72da-4ddc-4981-b106-1ffedbe40e73</guid>
-            <pubDate>Tue, 22 Dec 2015 22:19:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
