@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://www.explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 09:05:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 15:33:20 GMT</lastBuildDate>
         <atom:link href="http://www.explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://www.explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f43449cf-ef9e-4a55-9ace-3c26add7597c.JPG">]]></description>
+            <link>http://www.explorenorth.no/b6c62581-d889-4861-bb86-99bbb55684eb/index.html</link>
+            <guid isPermaLink="false">b6c62581-d889-4861-bb86-99bbb55684eb</guid>
+            <pubDate>Sun, 21 Feb 2016 15:32:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.mikaelstrandberg.com/2015/12/26/book-review-sail-to-svalbard-by-jon-amtrup/</link>
             <guid isPermaLink="false">7d142e2c-7084-4aaf-a8a2-098f9b94f135</guid>
             <pubDate>Sun, 27 Dec 2015 08:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[About]]></title>
-            <description><![CDATA[<article><h1>About</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2581fb6358b7dcf762e17d6f674f39d4e3c24b8f.jpg"></article>]]></description>
-            <link>http://www.explorenorth.no/about/index.html</link>
-            <guid isPermaLink="false">cf59c122-aa56-421d-8a60-03b3a3e29bfb</guid>
-            <pubDate>Wed, 23 Dec 2015 07:09:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
