@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Den siste HR-skanse har falt
-datePublished: '2016-03-22T12:17:57.291Z'
-dateModified: '2016-03-22T08:57:43.197Z'
+datePublished: '2016-03-22T12:22:53.121Z'
+dateModified: '2016-03-22T12:22:52.459Z'
 title: ''
 author: []
 authors: []
@@ -43,7 +43,7 @@ vindu. Men seilerne har satt pris på det og HR har med rette alltid hatt en hø
 stjerne når det gjelder sikkerhet og sjødyktighet. 
 
 Men nå har de tatt et grep som ikke følger denne gode
-tradisjonen. Vi snakker om den nye HR 44 som har to ror. Moderne, ja. Men er
+tradisjonen. Vi snakker om den nye [HR 44 ][0]som har to ror. Moderne, ja. Men er
 det egentlig noe for Hallberg-Rassy?
 
 To ror kom med de ekstreme flatbunnede regatta båtene. De er
@@ -98,6 +98,7 @@ Hallberg-Rassy dette?
 
 PS. Det kan godt skje jeg en gang kjøper meg en HR en gang.
 Men den skal ikke ha to ror. Et er
-nemlig nok. Sjekk for eksempel denne gode langturbåten: [En HR 49 ketch.][0]
+nemlig nok. Sjekk for eksempel denne gode langturbåten: [En HR 49 ketch.][1]
 
-[0]: http://m.finn.no/boat/forsale/ad.html?finnkode=72858508
+[0]: %20http:/www.hallberg-rassy.com/yachts/new-hallberg-rassy-44/
+[1]: http://m.finn.no/boat/forsale/ad.html?finnkode=72858508
