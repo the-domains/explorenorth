@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Den siste HR-skanse har falt
-datePublished: '2016-03-22T12:22:53.121Z'
-dateModified: '2016-03-22T12:22:52.459Z'
+datePublished: '2016-03-22T13:10:37.337Z'
+dateModified: '2016-03-22T13:10:22.848Z'
 title: ''
 author: []
 authors: []
@@ -26,7 +26,7 @@ Den siste HR-skanse har falt
 
 Hallberg-Rassy har lenge vært en av mine favorittbåter. De
 er det fortsatt -- men ikke den nye 44 foteren. Den har en ting for mye. Et ror.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1395f2f2-0819-40ee-a527-de5cdd8669a4.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2983415667096d191483ca4d582487f84be102f0.jpg)
 
 En av mine mange gode seilminner er Atlantic Rally for
 Cruisers i en velspekket HR 46\. Den seiler godt, tar havet med stolthet og gir
@@ -50,7 +50,7 @@ To ror kom med de ekstreme flatbunnede regatta båtene. De er
 langt bredere enn cruisingbåter og når de krysser så løftes det ene rorbladet
 ut av vannet og det blir dermed mindre våt flate -- noe som igjen betyr mer
 fart. Det roret som er i sjøen på lesiden er vinklet slik at det står mer eller
-mindre rett ned i sjøen for maksimalt grep. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2bd999e-0f17-4e5b-b9b1-3b881907d0cb.jpg)
+mindre rett ned i sjøen for maksimalt grep. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5f077fbf1021cfe620225866fe7ded17b181372.jpg)
 
 Den nye Hallberg-Rassy 44 er 4,20 meter bred, mens den litt
 eldre HR 43 MK II, som har et ror og er en veldig sjødyktig båt med god rorgrep,
@@ -80,7 +80,7 @@ et beskyttet av kjølen så får ting som flyter i vannet lett tilgang til roren
 som står ubeskyttet ut på hver side. Det kan være alt fra plastikkposer eller
 liner som setter seg fast, til tømmerstokker eller større ting som kan gjøre
 stor skade.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3af8d619-ceaa-4d22-8629-a3cc4b0b6c97.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/43e6550e3038d46ac4199061ba1709dc7670b1ac.jpg)
 
 Dessuten så står du i fare for å gå på grunn med roret. Det
 gjelder spesielt i utehavner hvor en skal legge seg inntil en fjellvegg eller
