@@ -5,9 +5,11 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Den siste HR-skanse har falt
-datePublished: '2016-03-22T13:21:47.625Z'
-dateModified: '2016-03-22T13:10:41.561Z'
+description: |-
+  Hallberg-Rassy har lenge vært en av mine favorittbåter. De
+  er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror.
+datePublished: '2016-03-22T16:34:27.175Z'
+dateModified: '2016-03-22T16:34:22.442Z'
 title: ''
 author: []
 authors: []
@@ -22,8 +24,6 @@ url: den-siste-hr-skanse-har-falt/index.html
 _type: Article
 
 ---
-Den siste HR-skanse har falt
-
 Hallberg-Rassy har lenge vært en av mine favorittbåter. De
 er det fortsatt -- men ikke den nye 44 foteren. Den har en ting for mye. Et ror.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/2983415667096d191483ca4d582487f84be102f0.jpg)
