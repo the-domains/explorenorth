@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Den siste HR-skanse har falt
-datePublished: '2016-03-22T13:10:37.337Z'
-dateModified: '2016-03-22T13:10:22.848Z'
+datePublished: '2016-03-22T13:21:47.625Z'
+dateModified: '2016-03-22T13:10:41.561Z'
 title: ''
 author: []
 authors: []
