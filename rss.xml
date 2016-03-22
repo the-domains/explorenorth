@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://www.explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 11:55:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2016 12:18:18 GMT</lastBuildDate>
         <atom:link href="http://www.explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -28,8 +28,15 @@
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Den siste HR-skanse har falt</p>]]></description>
+            <link>http://www.explorenorth.no/den-siste-hr-skanse-har-falt/index.html</link>
+            <guid isPermaLink="false">577ab45e-ddf4-41b7-adc3-1c44b3c5f33f</guid>
+            <pubDate>Tue, 22 Mar 2016 12:17:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[THE EXPLORERS CLUB: THE NORTH]]></title>
-            <description><![CDATA[<article><h1>THE EXPLORERS CLUB: THE NORTH</h1><p>Filmed in the Arctic Director & Producer: Jason van Bruggen Camera: Brian Smith, Jason van Bruggen, Mark Peachey Words: James Raffan Editor: Monica Remba</p></article>]]></description>
+            <description><![CDATA[<article><h1>THE EXPLORERS CLUB: THE NORTH</h1><p>This is where I want to be. To live. The North.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a3ccd6b5bca80f3995edf7feed82500d45bf7d5.jpg"></article>]]></description>
             <link>https://vimeo.com/147802080</link>
             <guid isPermaLink="false">55e6afd7-4c11-4c94-9da1-137f4d22162d</guid>
             <pubDate>Wed, 16 Mar 2016 11:54:36 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.explorenorth.no/b1985a24-648c-4f82-bbd1-a54387525d3c/index.html</link>
             <guid isPermaLink="false">b1985a24-648c-4f82-bbd1-a54387525d3c</guid>
             <pubDate>Thu, 31 Dec 2015 07:42:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Arctic Report Card 2015]]></title>
-            <description><![CDATA[<article><h1>Arctic Report Card 2015</h1><p>Arctic Report Card: Update for 2015 - Tracking recent environmental changes, with 12 essays prepared by an international team of 72 scientists from 11 different countries and an independent peer-review organized by the Arctic Monitoring and Assessment Programme of the Arctic Council. See http://www.arctic.noaa.gov/reportcard</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/586deae7942360d91a176f982919a1831e039c04.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=e0oLzNpEQ-w&amp;feature=youtu.be</link>
-            <guid isPermaLink="false">d2dd03d4-12b1-47cd-aca6-0033d6896924</guid>
-            <pubDate>Tue, 29 Dec 2015 07:10:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
