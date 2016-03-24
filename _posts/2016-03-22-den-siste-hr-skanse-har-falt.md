@@ -8,8 +8,8 @@ keywords: []
 description: |-
   Hallberg-Rassy har lenge vært en av mine favorittbåter. De
   er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror.
-datePublished: '2016-03-22T16:34:55.166Z'
-dateModified: '2016-03-22T16:34:34.279Z'
+datePublished: '2016-03-24T14:26:37.824Z'
+dateModified: '2016-03-24T08:46:41.503Z'
 title: Den siste HR-skanse har falt
 author: []
 authors: []
