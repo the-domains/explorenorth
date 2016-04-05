@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 17:33:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 07:51:48 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[German sailor & her Solo Journey Around The World | Sailing News]]></title>
+            <description><![CDATA[<article><h1>German sailor & her Solo Journey Around The World | Sailing News</h1><p>A solo sail half way around the world could have been a mean feat for some, but not for one European woman who says she simply enjoys her own company. Covering 14,808 nautical miles over 133 days, Susanne Huber-Curphey sailed non-stop from Lanzarote south under South Africa ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3a513024b12f95f4a71d07e773eef9470dc95c7.jpg"></article>]]></description>
+            <link>http://www.sosailize.net/index.php/articles/sailing-news/122-german-sailor-her-solo-journey-around-the-world-sailing-news</link>
+            <guid isPermaLink="false">8cddc443-2f2e-4c7f-aa9f-eae04f9b42d2</guid>
+            <pubDate>Tue, 05 Apr 2016 07:51:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Den siste HR-skanse har falt]]></title>
@@ -69,13 +76,6 @@ er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror
             <link>http://blog.tdobson.net/2012/02/ellen-macarthur-at-learning-without-frontiers/</link>
             <guid isPermaLink="false">dd69ac30-1f53-48a7-913b-32dcc0dbe73a</guid>
             <pubDate>Sat, 02 Jan 2016 22:14:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://gemini.no/wp-content/uploads/2015/12/jan-mayen-6-oppslagsvariant-foto-eiliv-larsen-ngu-1000x670.jpg">]]></description>
-            <link>http://explorenorth.no/b1985a24-648c-4f82-bbd1-a54387525d3c/index.html</link>
-            <guid isPermaLink="false">b1985a24-648c-4f82-bbd1-a54387525d3c</guid>
-            <pubDate>Thu, 31 Dec 2015 07:42:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
