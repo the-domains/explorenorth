@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 07:51:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2016 20:01:30 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://scontent-amt2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/10399113_10153301677081423_7328416501355768973_n.jpg?oh=c2e2e887aec665a33becac299747e39c&oe=5783019D">]]></description>
+            <link>http://explorenorth.no/0caba5e5-8a4b-4eb2-9ddc-cf235cdde993/index.html</link>
+            <guid isPermaLink="false">0caba5e5-8a4b-4eb2-9ddc-cf235cdde993</guid>
+            <pubDate>Tue, 05 Apr 2016 20:00:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[German sailor & her Solo Journey Around The World | Sailing News]]></title>
@@ -69,13 +76,6 @@ er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror
             <link>https://www.youtube.com/watch?v=M7aaufMXaxE</link>
             <guid isPermaLink="false">1d936f0a-b421-46a6-9eac-8e4f15078582</guid>
             <pubDate>Mon, 11 Jan 2016 13:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ellen MacArthur at Learning Without Frontiers Conference - Tim Dobson]]></title>
-            <description><![CDATA[<article><h1>Ellen MacArthur at Learning Without Frontiers Conference - Tim Dobson</h1><p>Ellen MacArthur is a huge inspiration, and I even had the chance to meet her when we invited her to hold a lecture in Norway. I have also written the last chapter in the Norwegian edition of her biography Taking on the world. She definitely took on the world with her circumnavigations, and now, with the same force and dreams, she is fighting for a better and greener world. Inspiration in the pures form. Go, Ellen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/410af224f02c285b7664e40972f6683af36864a1.jpg"></article>]]></description>
-            <link>http://blog.tdobson.net/2012/02/ellen-macarthur-at-learning-without-frontiers/</link>
-            <guid isPermaLink="false">dd69ac30-1f53-48a7-913b-32dcc0dbe73a</guid>
-            <pubDate>Sat, 02 Jan 2016 22:14:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
