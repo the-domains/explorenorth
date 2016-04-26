@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Happy Swedes going all the way in Steigen
-datePublished: '2016-04-25T20:47:46.270Z'
-dateModified: '2016-04-25T20:47:15.541Z'
+datePublished: '2016-04-26T16:33:16.674Z'
+dateModified: '2016-04-26T16:33:16.360Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-25-happy-swedes-going-all-the-way-in-steigen.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-25-happy-swedes-going-all-the-way-in-steigen.md
-published: true
 url: happy-swedes-going-all-the-way-in-steigen/index.html
 _type: Article
 
