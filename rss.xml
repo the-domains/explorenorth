@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:33:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 10:40:34 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sail to Svalbard]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Explore North's podcast: #5 Oda (23) seiler drømmen til Australia]]></title>
+            <description><![CDATA[<article><h1>Explore North's podcast: #5 Oda (23) seiler drømmen til Australia</h1><p>Oda Pedersen Taule (23) fra Bergen satt rorvakt alene som ti år gammel på vei over Atlanteren. Nettene på havet under stjernehimmelen satt varige spor. Nå har hun bestemt seg for å seile mer. 1. juli kaster hun loss for en 1 1/2 år lang seilas mot Australia i sin 32 fots lange båt "Snuppa" - både med og uten mannskap på veien.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a6991f09c8f4828b10d6a2c89b0abdf804362fe.jpg"></article>]]></description>
+            <link>http://explorenorth.libsyn.com/5-oda-23-seiler-drmmen-til-australia</link>
+            <guid isPermaLink="false">ee82bd40-6e49-4ddd-8143-90f2fced1d3b</guid>
+            <pubDate>Fri, 29 Apr 2016 10:39:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@ er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror
             <link>http://explorenorth.no/den-siste-hr-skanse-har-falt/index.html</link>
             <guid isPermaLink="false">577ab45e-ddf4-41b7-adc3-1c44b3c5f33f</guid>
             <pubDate>Thu, 24 Mar 2016 14:26:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[THE EXPLORERS CLUB: THE NORTH]]></title>
-            <description><![CDATA[<article><h1>THE EXPLORERS CLUB: THE NORTH</h1><p>This is where I want to be. To live. The North.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8a3ccd6b5bca80f3995edf7feed82500d45bf7d5.jpg"></article>]]></description>
-            <link>https://vimeo.com/147802080</link>
-            <guid isPermaLink="false">55e6afd7-4c11-4c94-9da1-137f4d22162d</guid>
-            <pubDate>Wed, 16 Mar 2016 11:54:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
