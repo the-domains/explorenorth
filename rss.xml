@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 04:53:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 04:55:26 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sail to Svalbard]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Studie: - Havutsikt gir deg bedre psykisk helse | ABC Nyheter]]></title>
+            <description><![CDATA[<article><h1>Studie: - Havutsikt gir deg bedre psykisk helse | ABC Nyheter</h1><p>Ifølge en ny studie publisert i tidsskriftet Health & Place kan det lønne seg å betale ekstra for en god utsikt. Studien har nemlig funnet at folk som har utsikt over havet opplever færre psykiske plager enn andre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/042c158988ad7522d8b6bef797a6bd3dcc9e2768.jpg"></article>]]></description>
+            <link>http://www.abcnyheter.no/livet/helse/2016/05/02/195214483/studie-havutsikt-gir-deg-bedre-psykisk-helse?autoplay=1</link>
+            <guid isPermaLink="false">750d9117-08a1-41ce-a34a-52b200aaf724</guid>
+            <pubDate>Tue, 03 May 2016 04:55:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Chile - Presentation]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.sosailize.net/index.php/articles/sailing-news/122-german-sailor-her-solo-journey-around-the-world-sailing-news</link>
             <guid isPermaLink="false">8cddc443-2f2e-4c7f-aa9f-eae04f9b42d2</guid>
             <pubDate>Tue, 05 Apr 2016 07:51:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f43449cf-ef9e-4a55-9ace-3c26add7597c.JPG">]]></description>
-            <link>http://explorenorth.no/b6c62581-d889-4861-bb86-99bbb55684eb/index.html</link>
-            <guid isPermaLink="false">b6c62581-d889-4861-bb86-99bbb55684eb</guid>
-            <pubDate>Thu, 24 Mar 2016 14:40:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
