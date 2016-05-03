@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 10:40:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2016 04:53:58 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Sail to Svalbard]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chile - Presentation]]></title>
+            <description><![CDATA[<article><h1>Chile - Presentation</h1><p>I have produced a set of slides that are used to support a talk/slideshow on sailing in Chilean Patagonia. I offer this here to anybody who is interested in sailing in the region. There are about 80 slides of which roughly 3/4 are photographs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9c341bb344e4329d70333963e6dc13e26d495b5.jpg"></article>]]></description>
+            <link>http://www.tweedsworld.com/chile-presentation/</link>
+            <guid isPermaLink="false">d21ffba7-da2a-4588-be07-ce16b7ac272a</guid>
+            <pubDate>Tue, 03 May 2016 04:53:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Explore North's podcast: #5 Oda (23) seiler drømmen til Australia]]></title>
@@ -68,14 +75,6 @@
             <link>http://explorenorth.no/b6c62581-d889-4861-bb86-99bbb55684eb/index.html</link>
             <guid isPermaLink="false">b6c62581-d889-4861-bb86-99bbb55684eb</guid>
             <pubDate>Thu, 24 Mar 2016 14:40:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ingen propellstrøm og gode muligheter til å treffe noe i vannet]]></title>
-            <description><![CDATA[<article><h1>Ingen propellstrøm og gode muligheter til å treffe noe i vannet</h1><p>Hallberg-Rassy har lenge vært en av mine favorittbåter. De
-er det fortsatt – men ikke den nye 44 foteren. Den har en ting for mye. Et ror.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2983415667096d191483ca4d582487f84be102f0.jpg"></article>]]></description>
-            <link>http://explorenorth.no/den-siste-hr-skanse-har-falt/index.html</link>
-            <guid isPermaLink="false">577ab45e-ddf4-41b7-adc3-1c44b3c5f33f</guid>
-            <pubDate>Thu, 24 Mar 2016 14:26:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
