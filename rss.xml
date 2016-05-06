@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 07:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 07:43:59 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[L'Antarctique en famille]]></title>
+            <description><![CDATA[<article><h1>L'Antarctique en famille</h1><p>Passer les fêtes de fin d'année en Antarctique pour aller rendre visite aux manchots et admirer les paysages du cercle polaire. Voilà une destination peu banale, qui plus est en famille et sur un voilier. Mais pour Jean-François Eeman, sa femme et ses deux enfants, c'était un rêve devenu réalité l'hiver dernier.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/26cdb0ec33a72ec65ba33d12d05f0d0a00b8e870.jpg"></article>]]></description>
+            <link>http://www.voilesetvoiliers.com/grande-croisiere/lantarctique-en-famille/#.VynPNVMapa8.facebook</link>
+            <guid isPermaLink="false">b4a47c52-4641-42ba-9bc2-93bcfea4715a</guid>
+            <pubDate>Fri, 06 May 2016 07:43:15 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Studie: - Havutsikt gir deg bedre psykisk helse | ABC Nyheter]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.no/0caba5e5-8a4b-4eb2-9ddc-cf235cdde993/index.html</link>
             <guid isPermaLink="false">0caba5e5-8a4b-4eb2-9ddc-cf235cdde993</guid>
             <pubDate>Tue, 05 Apr 2016 20:00:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[German sailor & her Solo Journey Around The World | Sailing News]]></title>
-            <description><![CDATA[<article><h1>German sailor & her Solo Journey Around The World | Sailing News</h1><p>A solo sail half way around the world could have been a mean feat for some, but not for one European woman who says she simply enjoys her own company. Covering 14,808 nautical miles over 133 days, Susanne Huber-Curphey sailed non-stop from Lanzarote south under South Africa ...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3a513024b12f95f4a71d07e773eef9470dc95c7.jpg"></article>]]></description>
-            <link>http://www.sosailize.net/index.php/articles/sailing-news/122-german-sailor-her-solo-journey-around-the-world-sailing-news</link>
-            <guid isPermaLink="false">8cddc443-2f2e-4c7f-aa9f-eae04f9b42d2</guid>
-            <pubDate>Tue, 05 Apr 2016 07:51:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
