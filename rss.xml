@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 05:07:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 07:49:43 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Polar Ocean Challenge]]></title>
+            <description><![CDATA[<article><h1>Polar Ocean Challenge</h1><p>Promotional film for the Polar Ocean Challenge. To be led by David Hempleman Adams. An expedition to sail around the North Pole in 2016. Film set around Svalbard in the Arctic in 2015. Thanks to Marius Mellum and music by @looph0leUK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f9132e27e72c9536cb2e2718e7169e3d7933a0.jpg"></article>]]></description>
+            <link>https://vimeo.com/150785543</link>
+            <guid isPermaLink="false">b8d69164-999d-4c6e-98de-8fd4cbc066e9</guid>
+            <pubDate>Wed, 25 May 2016 07:49:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.no/happy-swedes-going-all-the-way-in-steigen/index.html</link>
             <guid isPermaLink="false">dce94c0b-124a-44fd-b0b9-54e0dc6adb42</guid>
             <pubDate>Tue, 26 Apr 2016 16:33:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Explore North Podcast #4 Påsketur til Shetland</p>]]></description>
-            <link>http://explorenorth.no/explore-north-podcast-4-pasketur-til-shetland/index.html</link>
-            <guid isPermaLink="false">d218a0ba-3f27-4832-a75e-92ea9f99e65f</guid>
-            <pubDate>Fri, 08 Apr 2016 10:30:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
