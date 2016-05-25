@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 07:49:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2016 13:48:23 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Purpose of Life is Adventure]]></title>
+            <description><![CDATA[<article><h1>The Purpose of Life is Adventure</h1><p>Your life can be the greatest adventure you've ever dreamed of. This new clip from Adventure.com and Camp 4 Collective explores what happens when people break out of their comfort zones and make their dream adventures a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d3c124205de6f68b26072f8489c6f452795a42.jpg"></article>]]></description>
+            <link>http://www.outsideonline.com/1869091/purpose-life-adventure?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=facebookpost</link>
+            <guid isPermaLink="false">6e5d93cc-6892-4d2a-8aca-21d07b1ae552</guid>
+            <pubDate>Wed, 25 May 2016 13:48:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Polar Ocean Challenge]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.libsyn.com/5-oda-23-seiler-drmmen-til-australia</link>
             <guid isPermaLink="false">ee82bd40-6e49-4ddd-8143-90f2fced1d3b</guid>
             <pubDate>Fri, 29 Apr 2016 10:39:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c9206c0-7099-4202-bfaf-86174318fcd3.jpg">]]></description>
-            <link>http://explorenorth.no/happy-swedes-going-all-the-way-in-steigen/index.html</link>
-            <guid isPermaLink="false">dce94c0b-124a-44fd-b0b9-54e0dc6adb42</guid>
-            <pubDate>Tue, 26 Apr 2016 16:33:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
