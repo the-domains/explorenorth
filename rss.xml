@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 19:56:06 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 19:56:08 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[B.C. sailor returns to Turkish home after surviving Arctic ice and Atlantic hurricanes aboard homemade boat]]></title>
+            <description><![CDATA[<article><h1>B.C. sailor returns to Turkish home after surviving Arctic ice and Atlantic hurricanes aboard homemade boat</h1><p>VANCOUVER * A hero's welcome greeted Erkan Gursoy as he motored his peculiar craft into the Turkish port of Çanakkale: Flowers, ceremonies, VIP dinners, TV appearances and "more flowers." In 1972, Mr. Gursoy had been a 25-year-old blacksmith when he left his Turkish home for a life in British Columbia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f501250f1af3fa26577f7ed8a460f3d36dfc50a7.jpg"></article>]]></description>
+            <link>http://news.nationalpost.com/news/world/b-c-sailor-returns-to-turkish-home-after-surviving-arctic-ice-and-atlantic-hurricanes-aboard-homemade-boat</link>
+            <guid isPermaLink="false">71832045-4646-4a0d-9442-e7ffc97d436b</guid>
+            <pubDate>Sun, 05 Jun 2016 19:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Advantages of Old School Navigation Tools]]></title>
@@ -67,13 +74,6 @@
             <link>http://www.voilesetvoiliers.com/grande-croisiere/lantarctique-en-famille/#.VynPNVMapa8.facebook</link>
             <guid isPermaLink="false">b4a47c52-4641-42ba-9bc2-93bcfea4715a</guid>
             <pubDate>Fri, 06 May 2016 07:43:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Studie: - Havutsikt gir deg bedre psykisk helse | ABC Nyheter]]></title>
-            <description><![CDATA[<article><h1>Studie: - Havutsikt gir deg bedre psykisk helse | ABC Nyheter</h1><p>Ifølge en ny studie publisert i tidsskriftet Health & Place kan det lønne seg å betale ekstra for en god utsikt. Studien har nemlig funnet at folk som har utsikt over havet opplever færre psykiske plager enn andre.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/042c158988ad7522d8b6bef797a6bd3dcc9e2768.jpg"></article>]]></description>
-            <link>http://www.abcnyheter.no/livet/helse/2016/05/02/195214483/studie-havutsikt-gir-deg-bedre-psykisk-helse?autoplay=1</link>
-            <guid isPermaLink="false">750d9117-08a1-41ce-a34a-52b200aaf724</guid>
-            <pubDate>Tue, 03 May 2016 04:55:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
