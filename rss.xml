@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 05 Jun 2016 19:56:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 19:56:06 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,13 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Advantages of Old School Navigation Tools]]></title>
+            <description><![CDATA[<article><h1>The Advantages of Old School Navigation Tools</h1><p>Bill Biewenga discusses his favorite manual navigation tools. Originally published in BWS January 2016 I'm scrambling. With one and a half days before I fly to France for another transatlantic passage, I'm deeply immersed in the process of procuring a new battery for an old Iridium phone, collecting the correct Navionics chips for our eventual landfall in North America and initializing and authorizing my new InReach tracking and messaging device.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/38c83ed263009e87b0931d935ba7efbd60c7535d.jpg"></article>]]></description>
+            <link>http://www.bwsailing.com/cc/the-advantages-of-old-school-navigation-tools/</link>
+            <guid isPermaLink="false">1cd68ce1-325b-4cff-975b-ee1cdbdb5089</guid>
+            <pubDate>Sun, 05 Jun 2016 19:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Zipshorts™ Padded - never again cold and wet butts!]]></title>
@@ -67,13 +74,6 @@
             <link>http://www.abcnyheter.no/livet/helse/2016/05/02/195214483/studie-havutsikt-gir-deg-bedre-psykisk-helse?autoplay=1</link>
             <guid isPermaLink="false">750d9117-08a1-41ce-a34a-52b200aaf724</guid>
             <pubDate>Tue, 03 May 2016 04:55:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Chile - Presentation]]></title>
-            <description><![CDATA[<article><h1>Chile - Presentation</h1><p>I have produced a set of slides that are used to support a talk/slideshow on sailing in Chilean Patagonia. I offer this here to anybody who is interested in sailing in the region. There are about 80 slides of which roughly 3/4 are photographs.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9c341bb344e4329d70333963e6dc13e26d495b5.jpg"></article>]]></description>
-            <link>http://www.tweedsworld.com/chile-presentation/</link>
-            <guid isPermaLink="false">d21ffba7-da2a-4588-be07-ce16b7ac272a</guid>
-            <pubDate>Tue, 03 May 2016 04:53:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
