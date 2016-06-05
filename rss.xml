@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 May 2016 13:48:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2016 19:56:04 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,12 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zipshorts™ Padded - never again cold and wet butts!]]></title>
+            <link>https://www.kickstarter.com/projects/zipshorts/zipshortstm-padded-never-again-cold-and-wet-butts?token=6b52e403</link>
+            <guid isPermaLink="false">3b3ee413-c15b-4c68-8105-ebeeccec3bd4</guid>
+            <pubDate>Sun, 05 Jun 2016 19:56:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Purpose of Life is Adventure]]></title>
@@ -68,13 +74,6 @@
             <link>http://www.tweedsworld.com/chile-presentation/</link>
             <guid isPermaLink="false">d21ffba7-da2a-4588-be07-ce16b7ac272a</guid>
             <pubDate>Tue, 03 May 2016 04:53:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Explore North's podcast: #5 Oda (23) seiler drømmen til Australia]]></title>
-            <description><![CDATA[<article><h1>Explore North's podcast: #5 Oda (23) seiler drømmen til Australia</h1><p>Oda Pedersen Taule (23) fra Bergen satt rorvakt alene som ti år gammel på vei over Atlanteren. Nettene på havet under stjernehimmelen satt varige spor. Nå har hun bestemt seg for å seile mer. 1. juli kaster hun loss for en 1 1/2 år lang seilas mot Australia i sin 32 fots lange båt "Snuppa" - både med og uten mannskap på veien.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7a6991f09c8f4828b10d6a2c89b0abdf804362fe.jpg"></article>]]></description>
-            <link>http://explorenorth.libsyn.com/5-oda-23-seiler-drmmen-til-australia</link>
-            <guid isPermaLink="false">ee82bd40-6e49-4ddd-8143-90f2fced1d3b</guid>
-            <pubDate>Fri, 29 Apr 2016 10:39:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
