@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 19:34:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2016 19:34:13 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,20 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>surrounding</p>]]></description>
+            <link>http://explorenorth.no/surrounding/index.html</link>
+            <guid isPermaLink="false">41cd5031-4a50-4636-ac1b-59474172303a</guid>
+            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Does it rain in Paradise?]]></title>
+            <description><![CDATA[<article><h1>Does it rain in Paradise?</h1><p>23:06.75S 134:57.98W Yes it does! The last week has been very wet but only slightly cooler than the previous couple of weeks. We have been swimming every day but that is about all our outdoor activities have been limited to for a few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1abe3f902080a948306a89a4d5c9b5e7ada7d690.jpg"></article>]]></description>
+            <link>http://www.tweedsworld.com/2016/04/does-it-rain-in-paradise/</link>
+            <guid isPermaLink="false">581da282-715c-4278-856a-f7d91f963ced</guid>
+            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,20 +74,6 @@
             <link>http://www.outsideonline.com/1869091/purpose-life-adventure?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=facebookpost</link>
             <guid isPermaLink="false">6e5d93cc-6892-4d2a-8aca-21d07b1ae552</guid>
             <pubDate>Wed, 25 May 2016 13:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polar Ocean Challenge]]></title>
-            <description><![CDATA[<article><h1>Polar Ocean Challenge</h1><p>Promotional film for the Polar Ocean Challenge. To be led by David Hempleman Adams. An expedition to sail around the North Pole in 2016. Film set around Svalbard in the Arctic in 2015. Thanks to Marius Mellum and music by @looph0leUK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f9132e27e72c9536cb2e2718e7169e3d7933a0.jpg"></article>]]></description>
-            <link>https://vimeo.com/150785543</link>
-            <guid isPermaLink="false">b8d69164-999d-4c6e-98de-8fd4cbc066e9</guid>
-            <pubDate>Wed, 25 May 2016 07:49:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="" src="https://scontent.xx.fbcdn.net/v/t1.0-9/13227193_10153619260242621_8538885776153268888_n.jpg?oh=1de08705eb55f82d043db47ebc0e088e&oe=57CF5EA0">]]></description>
-            <link>https://www.facebook.com/mentorschannel/photos/a.454141827620.246996.178395412620/10153619260242621/?type=3</link>
-            <guid isPermaLink="false">3f464189-c51c-4673-a5c8-921c99fc2e5a</guid>
-            <pubDate>Wed, 25 May 2016 05:07:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
