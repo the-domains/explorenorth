@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 19:34:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 19:11:39 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -26,6 +26,20 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88acd0e-6d7e-497d-8a8f-4a0d4966be77.jpg">]]></description>
+            <link>http://explorenorth.no/en-bat-et-hav-en-oy/index.html</link>
+            <guid isPermaLink="false">9c52bb83-12b7-4800-8092-02016094345b</guid>
+            <pubDate>Tue, 28 Jun 2016 19:11:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>surrounding</p>]]></description>
+            <link>http://explorenorth.no/surrounding/index.html</link>
+            <guid isPermaLink="false">41cd5031-4a50-4636-ac1b-59474172303a</guid>
+            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Does it rain in Paradise?]]></title>
@@ -60,20 +74,6 @@
             <link>https://www.kickstarter.com/projects/zipshorts/zipshortstm-padded-never-again-cold-and-wet-butts?token=6b52e403</link>
             <guid isPermaLink="false">3b3ee413-c15b-4c68-8105-ebeeccec3bd4</guid>
             <pubDate>Sun, 05 Jun 2016 19:56:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Purpose of Life is Adventure]]></title>
-            <description><![CDATA[<article><h1>The Purpose of Life is Adventure</h1><p>Your life can be the greatest adventure you've ever dreamed of. This new clip from Adventure.com and Camp 4 Collective explores what happens when people break out of their comfort zones and make their dream adventures a reality.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d3c124205de6f68b26072f8489c6f452795a42.jpg"></article>]]></description>
-            <link>http://www.outsideonline.com/1869091/purpose-life-adventure?utm_source=facebook&amp;utm_medium=social&amp;utm_campaign=facebookpost</link>
-            <guid isPermaLink="false">6e5d93cc-6892-4d2a-8aca-21d07b1ae552</guid>
-            <pubDate>Wed, 25 May 2016 13:48:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Polar Ocean Challenge]]></title>
-            <description><![CDATA[<article><h1>Polar Ocean Challenge</h1><p>Promotional film for the Polar Ocean Challenge. To be led by David Hempleman Adams. An expedition to sail around the North Pole in 2016. Film set around Svalbard in the Arctic in 2015. Thanks to Marius Mellum and music by @looph0leUK.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6f9132e27e72c9536cb2e2718e7169e3d7933a0.jpg"></article>]]></description>
-            <link>https://vimeo.com/150785543</link>
-            <guid isPermaLink="false">b8d69164-999d-4c6e-98de-8fd4cbc066e9</guid>
-            <pubDate>Wed, 25 May 2016 07:49:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
