@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: En båt. Et hav. En øy.
-datePublished: '2016-06-28T19:11:03.362Z'
-dateModified: '2016-06-28T19:10:20.354Z'
+datePublished: '2016-06-28T19:12:54.165Z'
+dateModified: '2016-06-28T19:12:16.380Z'
 title: ''
 author: []
 authors: []
@@ -48,11 +48,12 @@ Seiling kjenner ingen aldersgrenser. Norvald Vikne er han vi alle ønsker å sei
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d53a4f9-d956-485a-914d-bf2a8c16af13.jpg)
 
 Tommy Allen er fra Shetland. Han seilte Lerwick-Bergen for å stille til start. Seilte begge veier - og så tilbake igjen for å komme hjem. Han ble belønnet for å være siste båt over mål før maksimaltiden på 50 timer.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ef812a5-a59c-4e29-a81f-08768806de82.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a1a230e3-ac26-473c-aedf-9722609da83d.jpg)
 
 Sula på 30 fot var flåtens minste og hun rakk ikke maksimaltiden inn til Lerwick. Men hun seilte.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/72b4ed9f-6a64-4e65-96b2-02b3024fc6c3.jpg)
 
-Starten hjem har gått. Litt konsentrasjon før vaktene tok oss. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be798638-53be-4aeb-b978-377e8a11add7.jpg)
+Starten hjem har gått. Litt konsentrasjon før skiftordningen 2-4 tok oss. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be798638-53be-4aeb-b978-377e8a11add7.jpg)
 
-Stille og bris. Sol og yr. Smil og øl. Fish og chips..
+På vei hjem. Men vi kommer tilbake.
