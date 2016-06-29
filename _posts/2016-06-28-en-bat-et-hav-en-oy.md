@@ -5,13 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: En båt. Et hav. En øy.
-datePublished: '2016-06-29T18:59:47.587Z'
-dateModified: '2016-06-29T18:59:34.613Z'
+datePublished: '2016-06-29T20:50:41.369Z'
+dateModified: '2016-06-29T18:59:53.159Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-28-en-bat-et-hav-en-oy.md
 authors: []
 publisher: null
-sourcePath: _posts/2016-06-28-en-bat-et-hav-en-oy.md
 starred: true
 url: en-bat-et-hav-en-oy/index.html
 _type: Article
