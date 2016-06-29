@@ -4,8 +4,15 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 19:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2016 18:59:53 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88acd0e-6d7e-497d-8a8f-4a0d4966be77.jpg">]]></description>
+            <link>http://explorenorth.no/en-bat-et-hav-en-oy/index.html</link>
+            <guid isPermaLink="false">9c52bb83-12b7-4800-8092-02016094345b</guid>
+            <pubDate>Wed, 29 Jun 2016 18:59:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Books]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f02d132-ae79-4716-97cb-982ba7432ab0.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>http://explorenorth.no/ski-and-sail-2016/index.html</link>
             <guid isPermaLink="false">92e8296c-fd79-4607-a11f-1a04bc83fefe</guid>
             <pubDate>Mon, 11 Jan 2016 17:04:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b88acd0e-6d7e-497d-8a8f-4a0d4966be77.jpg">]]></description>
-            <link>http://explorenorth.no/en-bat-et-hav-en-oy/index.html</link>
-            <guid isPermaLink="false">9c52bb83-12b7-4800-8092-02016094345b</guid>
-            <pubDate>Tue, 28 Jun 2016 19:12:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
