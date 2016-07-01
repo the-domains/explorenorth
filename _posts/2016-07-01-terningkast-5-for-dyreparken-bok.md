@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Terningkast 5 for Dyreparken-bok
-datePublished: '2016-07-01T09:15:36.352Z'
-dateModified: '2016-07-01T09:13:42.677Z'
+datePublished: '2016-07-01T09:16:42.703Z'
+dateModified: '2016-07-01T09:15:45.322Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-01-terningkast-5-for-dyreparken-bok.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-07-01-terningkast-5-for-dyreparken-bok.md
 url: terningkast-5-for-dyreparken-bok/index.html
 _type: Article
 
