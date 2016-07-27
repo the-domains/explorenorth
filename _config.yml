@@ -1,4 +1,4 @@
-name: explorenorth
+name: Explore North
 favicon: null
 layout_spectrum: 0.82117
 typography_spectrum: 0.7935487048234791
@@ -8,7 +8,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: www.explorenorth.no
+  google: UA-32572439-2
   facebook: null
   twitter: null
 opengraph:
