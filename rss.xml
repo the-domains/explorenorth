@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jul 2016 10:49:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 07:30:51 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>http://explorenorth.no/books/index.html</link>
             <guid isPermaLink="false">d339883d-e188-4d07-8dea-37d6b7a4631a</guid>
             <pubDate>Tue, 03 May 2016 20:04:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://eepurl.com/b5-eaj</p>]]></description>
+            <link>http://explorenorth.no/httpeepurlcomb5-eaj/index.html</link>
+            <guid isPermaLink="false">b1124e92-04b5-473a-92bd-b75d9db5dfd5</guid>
+            <pubDate>Wed, 03 Aug 2016 07:30:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.no/rorvakt/index.html</link>
             <guid isPermaLink="false">f6a0edfb-e955-446f-b676-a053efa9c23a</guid>
             <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[B.C. sailor returns to Turkish home after surviving Arctic ice and Atlantic hurricanes aboard homemade boat]]></title>
-            <description><![CDATA[<article><h1>B.C. sailor returns to Turkish home after surviving Arctic ice and Atlantic hurricanes aboard homemade boat</h1><p>VANCOUVER * A hero's welcome greeted Erkan Gursoy as he motored his peculiar craft into the Turkish port of Çanakkale: Flowers, ceremonies, VIP dinners, TV appearances and "more flowers." In 1972, Mr. Gursoy had been a 25-year-old blacksmith when he left his Turkish home for a life in British Columbia.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f501250f1af3fa26577f7ed8a460f3d36dfc50a7.jpg"></article>]]></description>
-            <link>http://news.nationalpost.com/news/world/b-c-sailor-returns-to-turkish-home-after-surviving-arctic-ice-and-atlantic-hurricanes-aboard-homemade-boat</link>
-            <guid isPermaLink="false">71832045-4646-4a0d-9442-e7ffc97d436b</guid>
-            <pubDate>Sun, 05 Jun 2016 19:56:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
