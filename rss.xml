@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 07:30:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 07:33:25 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -35,18 +35,18 @@
             <pubDate>Tue, 03 May 2016 20:04:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Seilskole]]></title>
+            <description><![CDATA[<p>Seilskole for alle</p>]]></description>
+            <link>http://explorenorth.no/seilskole-for-alle/index.html</link>
+            <guid isPermaLink="false">a3208acd-3b43-4c0d-9b3e-03b37951caad</guid>
+            <pubDate>Wed, 03 Aug 2016 07:33:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>http://eepurl.com/b5-eaj</p>]]></description>
             <link>http://explorenorth.no/httpeepurlcomb5-eaj/index.html</link>
             <guid isPermaLink="false">b1124e92-04b5-473a-92bd-b75d9db5dfd5</guid>
             <pubDate>Wed, 03 Aug 2016 07:30:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Seilskole for alle</p>]]></description>
-            <link>http://explorenorth.no/seilskole-for-alle/index.html</link>
-            <guid isPermaLink="false">a3208acd-3b43-4c0d-9b3e-03b37951caad</guid>
-            <pubDate>Mon, 25 Jul 2016 10:48:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
