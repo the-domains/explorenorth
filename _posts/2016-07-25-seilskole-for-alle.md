@@ -1,19 +1,19 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: Seilskole for alle
-datePublished: '2016-07-25T10:48:57.429Z'
-dateModified: '2016-07-25T10:46:15.295Z'
+datePublished: '2016-08-03T07:33:22.206Z'
+dateModified: '2016-07-25T10:49:47.616Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-07-25-seilskole-for-alle.md
 authors: []
 publisher: {}
 starred: false
-sourcePath: _posts/2016-07-25-seilskole-for-alle.md
 url: seilskole-for-alle/index.html
 _type: Article
 
