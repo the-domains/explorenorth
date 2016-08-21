@@ -4,14 +4,14 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Aug 2016 13:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 19:04:59 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24df233f865e7b73b7cbad6b53610a482ece1096.jpg" alt="" title="">]]></description>
             <link>http://explorenorth.no/books/index.html</link>
             <guid isPermaLink="false">d339883d-e188-4d07-8dea-37d6b7a4631a</guid>
-            <pubDate>Wed, 17 Aug 2016 13:20:51 GMT</pubDate>
+            <pubDate>Sun, 21 Aug 2016 19:04:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -33,6 +33,13 @@
             <link>http://explorenorth.no/17a5ef6a-8181-42a5-b211-3da21d86706c/index.html</link>
             <guid isPermaLink="false">17a5ef6a-8181-42a5-b211-3da21d86706c</guid>
             <pubDate>Wed, 04 May 2016 07:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>http://explorenorth.no/b46722de-65cd-4051-9cbc-a0880b81003d/index.html</link>
+            <guid isPermaLink="false">b46722de-65cd-4051-9cbc-a0880b81003d</guid>
+            <pubDate>Sun, 21 Aug 2016 19:01:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seilskole]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Does it rain in Paradise?</h1><p>23:06.75S 134:57.98W Yes it does! The last week has been very wet but only slightly cooler than the previous couple of weeks. We have been swimming every day but that is about all our outdoor activities have been limited to for a few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1abe3f902080a948306a89a4d5c9b5e7ada7d690.jpg"></article>]]></description>
             <link>http://www.tweedsworld.com/2016/04/does-it-rain-in-paradise/</link>
             <guid isPermaLink="false">581da282-715c-4278-856a-f7d91f963ced</guid>
-            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>rorvakt</p>]]></description>
-            <link>http://explorenorth.no/rorvakt/index.html</link>
-            <guid isPermaLink="false">f6a0edfb-e955-446f-b676-a053efa9c23a</guid>
             <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
         </item>
     </channel>
