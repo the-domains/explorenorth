@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 21:03:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2016 20:42:16 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -67,13 +67,6 @@
             <description><![CDATA[<p>surrounding</p>]]></description>
             <link>http://explorenorth.no/surrounding/index.html</link>
             <guid isPermaLink="false">41cd5031-4a50-4636-ac1b-59474172303a</guid>
-            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Does it rain in Paradise?]]></title>
-            <description><![CDATA[<article><h1>Does it rain in Paradise?</h1><p>23:06.75S 134:57.98W Yes it does! The last week has been very wet but only slightly cooler than the previous couple of weeks. We have been swimming every day but that is about all our outdoor activities have been limited to for a few days.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1abe3f902080a948306a89a4d5c9b5e7ada7d690.jpg"></article>]]></description>
-            <link>http://www.tweedsworld.com/2016/04/does-it-rain-in-paradise/</link>
-            <guid isPermaLink="false">581da282-715c-4278-856a-f7d91f963ced</guid>
             <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
         </item>
     </channel>
