@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Seilskole for alle
-datePublished: '2016-08-21T21:03:27.266Z'
-dateModified: '2016-08-21T21:03:20.893Z'
+datePublished: '2016-08-22T20:44:03.486Z'
+dateModified: '2016-08-21T21:03:31.258Z'
 title: ''
 author: []
 via: {}
