@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 15:02:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 15:29:31 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -39,7 +39,14 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1baf61b3-9043-40b5-8c57-8409e18f3ecb.jpg">]]></description>
             <link>http://explorenorth.no/b46722de-65cd-4051-9cbc-a0880b81003d/index.html</link>
             <guid isPermaLink="false">b46722de-65cd-4051-9cbc-a0880b81003d</guid>
-            <pubDate>Tue, 23 Aug 2016 15:02:25 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2016 15:29:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[De små seilgledene er størst]]></title>
+            <description><![CDATA[<p>De små seilgledene er størst</p>]]></description>
+            <link>http://explorenorth.no/de-sma-seilgledene-er-storst/index.html</link>
+            <guid isPermaLink="false">9a41afbe-758d-4a1c-98ac-2fdad7046225</guid>
+            <pubDate>Tue, 23 Aug 2016 15:28:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seilskole]]></title>
