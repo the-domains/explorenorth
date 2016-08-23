@@ -1,12 +1,12 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 keywords: []
 description: De små seilgledene er størst
-datePublished: '2016-08-23T15:28:41.087Z'
-dateModified: '2016-08-23T15:28:39.691Z'
+datePublished: '2016-08-23T15:36:58.677Z'
+dateModified: '2016-08-23T15:36:43.877Z'
 title: ''
 author: []
 via: {}
@@ -20,10 +20,10 @@ _type: Article
 ---
 **De små seilgledene er størst**
 
-Det er utrolig hva folk gjør med små båter. Og det er utrolig hva andre ikke gjør med store båter. Olav er en av mange som klarer seg med lite. Eller akkurat nok.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c92693bd-8ece-42b8-a9f1-046678853ab9.png)
+**Det er utrolig hva folk gjør med små båter. Og det er utrolig hva andre ikke gjør med store båter.**
 
 Dagens store get-out-of-jail inspirasjon fant jeg på finn.no. Der ligger det nemlig en Albin Alpha. Eller rettere sagt: 29 foteren ligger på Island.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/df726fff-c9f8-481d-a00b-0f3aa4619eb6.png)
 
 Eieren Olav er på vei hjem etter 15000 nautiske mil i løpet av 1,5 år. Han har krysset hav, følt sanden mellom tærne og ankret opp på Grønland. Nå er pengene slutt. Skuta må selges. Men for en opplevelse. På 29 fot.
 
@@ -37,9 +37,7 @@ _Albin Alpha er en rask og lettseilt båt med mye plass for størrelsen. "Eg har
 
 _Det er god plass til 3 mann på langtur, på en helgetur kan man fint være 6 stykk ombord._
 
-_Båten er isolert, og man får 23 grader i båten
-med dieselvarmeren i gang et kvarter. (Kommer nå fra Grønland og farvann som
-holdt knappe 2 grader, det er ingen problem)"_
+_Båten er isolert, og man får 23 grader i båten med dieselvarmeren i gang et kvarter. (Kommer nå fra Grønland og farvann som holdt knappe 2 grader, det er ingen problem)._
 
 Her tenker de fleste, inkludert meg: 6 mann på 29 fot. No way. Det vi egentlig kunne tenkt er: 20 døgn på havet. Det hadde vært deilig det -- og jeg trenger tydeligvis ikke mer enn dette. Grønland. YES.
 
