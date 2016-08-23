@@ -4,7 +4,7 @@
         <description><![CDATA[Explore North]]></description>
         <link>http://explorenorth.no/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Aug 2016 15:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 15:37:03 GMT</lastBuildDate>
         <atom:link href="http://explorenorth.no/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Books]]></title>
@@ -33,6 +33,13 @@
             <link>http://explorenorth.no/17a5ef6a-8181-42a5-b211-3da21d86706c/index.html</link>
             <guid isPermaLink="false">17a5ef6a-8181-42a5-b211-3da21d86706c</guid>
             <pubDate>Wed, 04 May 2016 07:10:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df726fff-c9f8-481d-a00b-0f3aa4619eb6.png">]]></description>
+            <link>http://explorenorth.no/de-sma-seilgledene-er-storst/index.html</link>
+            <guid isPermaLink="false">fbbb0c7e-6bc6-4cc2-a2b0-0172d65c1775</guid>
+            <pubDate>Tue, 23 Aug 2016 15:36:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ice with everything]]></title>
@@ -68,13 +75,6 @@
             <link>http://explorenorth.no/terningkast-5-for-dyreparken-bok/index.html</link>
             <guid isPermaLink="false">26c54d32-f2e2-4d24-87ce-e507bcb73855</guid>
             <pubDate>Fri, 01 Jul 2016 09:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>surrounding</p>]]></description>
-            <link>http://explorenorth.no/surrounding/index.html</link>
-            <guid isPermaLink="false">41cd5031-4a50-4636-ac1b-59474172303a</guid>
-            <pubDate>Thu, 16 Jun 2016 19:34:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
