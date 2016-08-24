@@ -1,8 +1,8 @@
 ---
 keywords: []
 title: ''
-datePublished: '2016-08-24T11:42:31.258Z'
-dateModified: '2016-08-24T11:42:29.435Z'
+datePublished: '2016-08-24T12:02:56.827Z'
+dateModified: '2016-08-24T12:02:54.756Z'
 publisher: {}
 author: []
 inFeed: true
@@ -10,7 +10,7 @@ hasPage: true
 inNav: true
 description: De små seilgledene er størst
 via: {}
-starred: false
+starred: true
 sourcePath: _posts/2016-08-23-de-sma-seilgledene-er-storst.md
 url: de-sma-seilgledene-er-storst/index.html
 _type: Article
