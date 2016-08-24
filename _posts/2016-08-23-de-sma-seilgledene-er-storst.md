@@ -1,17 +1,23 @@
 ---
-keywords: []
-title: ''
-datePublished: '2016-08-24T12:02:56.827Z'
-dateModified: '2016-08-24T12:02:54.756Z'
-publisher: {}
-author: []
 inFeed: true
 hasPage: true
 inNav: true
+inLanguage: null
+keywords: []
 description: De små seilgledene er størst
+datePublished: '2016-08-24T13:01:48.742Z'
+dateModified: '2016-08-24T12:17:48.680Z'
+title: ''
+author: []
 via: {}
-starred: true
 sourcePath: _posts/2016-08-23-de-sma-seilgledene-er-storst.md
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+starred: true
 url: de-sma-seilgledene-er-storst/index.html
 _type: Article
 
