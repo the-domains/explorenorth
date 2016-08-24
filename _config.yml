@@ -1,4 +1,12 @@
+name: Explore North
+layout_spectrum: 0.82117
 typography_spectrum: 0.7935487048234791
+cta: {}
+analytics:
+  google: UA-32572439-2
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#101922'
@@ -10,21 +18,11 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5549349139910191
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.82117
-analytics:
-  google: UA-32572439-2
-  facebook: null
-  twitter: null
-name: Explore North
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: Explore North
-description: Sailing the high latitudes
 purpose: []
+title: Explore North
+author:
+  name: 'Jon Amtrup '
+  url: www.explorenorth.no
+  email: jon@explorenorth.no
+content_rating:
+  adult: false
